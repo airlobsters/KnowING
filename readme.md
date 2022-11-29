@@ -1,6 +1,6 @@
 # Getting started
 
-Create Python environment with the following packages:
+To be able to participate in the Workshop please create a Python environment with the following packages:
 
 - Jupyter notebook
 - Spacy
@@ -9,4 +9,4 @@ Create Python environment with the following packages:
 - NLTK
 - Seaborn
 
-Run Exploration notebook
+If you can run the Exploration notebook you are good to go. If you prefer using other tools for text analysis please install them.
